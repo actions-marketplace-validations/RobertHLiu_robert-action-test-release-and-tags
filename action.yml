@@ -3,3 +3,7 @@ description: 'ouput the semantic release version'
 runs:
   using: 'node16'
   main: 'dist/index.js'
+branding:
+  icon: check-circle
+  color: blue
+  
