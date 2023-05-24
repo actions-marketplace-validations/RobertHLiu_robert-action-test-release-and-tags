@@ -9792,7 +9792,7 @@ var __webpack_exports__ = {};
 const core = __nccwpck_require__(1590);
 const github = __nccwpck_require__(5824);
 
-const message = 'Release tag semantic version: v1.0.1'
+const message = 'Release tag semantic version: v2.0.0'
 console.log(message);
 
 })();
